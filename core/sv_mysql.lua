@@ -1,10 +1,10 @@
 MySQLite.initialize({
 	EnableMySQL = true,
-	Host = '94.26.255.7',
-	Username = 'gameserver23640',
-	Password = 'wDkRPwg0',
-	Database_name = 'gameserver23640',
-	Database_port = 3306,
+	Host = '',
+	Username = '',
+	Password = '',
+	Database_name = '',
+	Database_port = ,
 	Preferred_module = 'mysqloo'
 })
 
